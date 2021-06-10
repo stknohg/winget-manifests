@@ -1,0 +1,11 @@
+# Created using wingetcreate
+
+PackageIdentifier: Amazon.SessionManagerPlugin
+PackageVersion: 1.2.205.0
+PackageLocale: en-US
+Publisher: Amazon Web Services
+PackageName: Session Manager Plugin
+License: Copyright (c) Amazon Web Services. All rights reserved.
+ShortDescription: Session Manager Plugin
+ManifestType: defaultLocale
+ManifestVersion: 1.0.0
