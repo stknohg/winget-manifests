@@ -12,7 +12,7 @@ e.g.
 ```powershell
 git clone https://github.com/stknohg/winget-manifests.git
 
-winget install -m .\manifests\Amazon.AWSSesionManagerPlugin\
+winget install -m .\manifests\Amazon.SesionManagerPlugin\
 ```
 
 ### Note
