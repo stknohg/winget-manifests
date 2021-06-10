@@ -1,0 +1,14 @@
+# Created using wingetcreate
+
+PackageIdentifier: Amazon.WorkSpacesClient
+PackageVersion: 3.1.8.2150
+Installers:
+- InstallerLocale: en-US
+  Architecture: neutral
+  InstallerType: msi
+  InstallerUrl: https://d2td7dqidlhjx7.cloudfront.net/prod/global/windows/Amazon+WorkSpaces.msi
+  InstallerSha256: 6A29008483678CD642F7C6DEB369A4EE1A50FF47832B3C1C271DC93AECD1E13A
+  ProductCode: '{27BD3DB8-D43A-4DFB-BB59-BD0042BA64E1}'
+  UpgradeBehavior: install
+ManifestType: installer
+ManifestVersion: 1.0.0
