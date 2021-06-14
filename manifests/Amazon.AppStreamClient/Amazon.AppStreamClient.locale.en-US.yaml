@@ -1,0 +1,11 @@
+# Created using wingetcreate
+
+PackageIdentifier: Amazon.AppStreamClient
+PackageVersion: 1.1.294
+PackageLocale: en-US
+Publisher: Amazon.com, Inc.
+PackageName: Amazon AppStream 2.0 Client
+License: Copyright © 2021 Amazon.com, Inc.
+ShortDescription: Amazon AppStream 2.0 Client
+ManifestType: defaultLocale
+ManifestVersion: 1.0.0

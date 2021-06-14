@@ -1,0 +1,11 @@
+# Created using wingetcreate
+
+PackageIdentifier: Amazon.AppStreamClient
+PackageVersion: 1.1.294
+Installers:
+- Architecture: neutral
+  InstallerType: exe
+  InstallerUrl: https://clients.amazonappstream.com/installers/windows/AmazonAppStreamClientSetup_1.1.294.exe
+  InstallerSha256: F9118CDED60F5767BF82ED7DCD08D1CC2879702FA23CC11D097484BEEE8DDADF
+ManifestType: installer
+ManifestVersion: 1.0.0
