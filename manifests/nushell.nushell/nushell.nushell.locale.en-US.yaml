@@ -1,7 +1,7 @@
 # Created using wingetcreate
 
 PackageIdentifier: nushell.nushell
-PackageVersion: 0.32.0
+PackageVersion: 0.33.0
 PackageLocale: en-US
 Publisher: The Nu Project
 PackageName: nu
