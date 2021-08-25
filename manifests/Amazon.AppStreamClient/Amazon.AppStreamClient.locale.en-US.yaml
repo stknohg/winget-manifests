@@ -1,7 +1,7 @@
 # Created using wingetcreate
 
 PackageIdentifier: Amazon.AppStreamClient
-PackageVersion: 1.1.294
+PackageVersion: 1.1.319
 PackageLocale: en-US
 Publisher: Amazon.com, Inc.
 PackageName: Amazon AppStream 2.0 Client
