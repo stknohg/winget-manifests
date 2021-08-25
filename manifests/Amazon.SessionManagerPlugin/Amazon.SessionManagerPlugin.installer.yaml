@@ -1,12 +1,12 @@
 # Created using wingetcreate
 
 PackageIdentifier: Amazon.SessionManagerPlugin
-PackageVersion: 1.2.234.0
+PackageVersion: 1.2.245.0
 Installers:
 - Architecture: x64
   InstallerType: exe
   InstallerUrl: https://s3.amazonaws.com/session-manager-downloads/plugin/latest/windows/SessionManagerPluginSetup.exe
-  InstallerSha256: A11BD2380812F051CC56DD1FA9EC8AE6737EB6EB41E891C79EC362B81BA98DA1
+  InstallerSha256: FE33EFB566086248781822ADD715B1109676EDA33DF60DD134710D5FC67A0A23
   InstallerSwitches:
     Silent: /quiet
     SilentWithProgress: /quiet
