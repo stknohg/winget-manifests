@@ -1,12 +1,12 @@
 # Created using wingetcreate
 
 PackageIdentifier: nushell.nushell
-PackageVersion: 0.37.0
+PackageVersion: 0.39.0
 Installers:
 - Architecture: x64
   InstallerType: msi
-  InstallerUrl: https://github.com/nushell/nushell/releases/download/0.37.0/nu_0_37_0_windows.msi
-  InstallerSha256: 4DE108F3381A174DA3B7CE844607B47A1A70C55A6056C3742FEDA2F16FC9512B
+  InstallerUrl: https://github.com/nushell/nushell/releases/download/0.39.0/nu_0_39_0_windows.msi
+  InstallerSha256: 89507ADDA34F1F7B6888F699BAC355364C7BB5E084FE64A46C921706FE82DB4B
   ProductCode: '{6296CFD4-3DA4-49E8-BF3F-76FF3B2CBF29}'
   UpgradeBehavior: install
 ManifestType: installer
