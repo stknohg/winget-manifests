@@ -18,4 +18,6 @@ winget install -m .\manifests\Amazon.SessionManagerPlugin\
 ### Note
 
 This repository contains a single version manifest only.  
-I'm intentionally ignoring manifest versioning.
+I'm intentionally ignoring manifest versioning.  
+
+Since winget ver.1.1.12653, Need `winget settings --enable LocalManifestFiles` command first.
