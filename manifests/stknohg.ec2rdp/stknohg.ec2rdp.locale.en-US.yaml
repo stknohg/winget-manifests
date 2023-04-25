@@ -1,0 +1,16 @@
+PackageIdentifier: stknohg.ec2rdp
+PackageVersion: 0.2.0
+PackageLocale: en-US
+Publisher: Takuya Shibata
+PublisherSupportUrl: https://github.com/stknohg/ec2rdp
+PackageName: ec2rdp
+PackageUrl: https://github.com/stknohg/ec2rdp
+License: MIT License
+LicenseUrl: https://github.com/stknohg/ec2rdp/blob/main/LICENSE
+ShortDescription: Remote Desktop Utility for Amazon EC2.
+Tags:
+- cli
+- ec2
+- rdp
+ManifestType: defaultLocale
+ManifestVersion: 1.4.0

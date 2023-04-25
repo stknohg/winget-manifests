@@ -1,0 +1,17 @@
+PackageIdentifier: stknohg.ec2rdp
+PackageVersion: 0.2.0
+InstallerType: zip
+NestedInstallerType: portable
+NestedInstallerFiles:
+- RelativeFilePath: ec2rdp.exe
+  PortableCommandAlias: ec2rdp
+ReleaseDate: 2023-04-25
+Installers:
+- Architecture: x64
+  InstallerUrl: https://github.com/stknohg/ec2rdp/releases/download/v0.2.0/ec2rdp-windows-x64.zip
+  InstallerSha256: e538e2b3eba7b90aed5815715f6baf8bdccc4bbef5ef147efb587dfb85b089ab
+- Architecture: arm64
+  InstallerUrl: https://github.com/stknohg/ec2rdp/releases/download/v0.2.0/ec2rdp-windows-arm64.zip
+  InstallerSha256: 97776051b75ffec13783b66d0648f9c3ba625aeca442c3aef8f7cecd104d27df
+ManifestType: installer
+ManifestVersion: 1.4.0
