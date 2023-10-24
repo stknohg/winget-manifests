@@ -1,3 +1,6 @@
+# Created using wingetcreate 1.5.5.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.5.0.schema.json
+
 PackageIdentifier: stknohg.ec2rdp
 PackageVersion: 0.7.0
 InstallerType: zip
@@ -5,7 +8,6 @@ NestedInstallerType: portable
 NestedInstallerFiles:
 - RelativeFilePath: ec2rdp.exe
   PortableCommandAlias: ec2rdp
-ReleaseDate: 2023-04-25
 Installers:
 - Architecture: x64
   InstallerUrl: https://github.com/stknohg/ec2rdp/releases/download/v0.7.0/ec2rdp-windows-x64.zip
@@ -14,4 +16,4 @@ Installers:
   InstallerUrl: https://github.com/stknohg/ec2rdp/releases/download/v0.7.0/ec2rdp-windows-arm64.zip
   InstallerSha256: e1dcc4847c4232eed26cb0a5fef70139587893e51f2cd17e2dc31ad8b83a9fdf
 ManifestType: installer
-ManifestVersion: 1.4.0
+ManifestVersion: 1.5.0
