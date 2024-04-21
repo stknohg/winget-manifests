@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.5.0.schema.json
 
 PackageIdentifier: stknohg.ec2rdp
-PackageVersion: 0.7.0
+PackageVersion: 0.8.0
 InstallerType: zip
 NestedInstallerType: portable
 NestedInstallerFiles:
@@ -10,10 +10,10 @@ NestedInstallerFiles:
   PortableCommandAlias: ec2rdp
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/stknohg/ec2rdp/releases/download/v0.7.0/ec2rdp-windows-x64.zip
-  InstallerSha256: d8887efc923d61ae31e1a7d727726e010d395b904f974ee0ff4acc6ed0896d84
+  InstallerUrl: https://github.com/stknohg/ec2rdp/releases/download/v0.8.0/ec2rdp-windows-x64.zip
+  InstallerSha256: 93f34a3623a2d3fe2ecfe43f3525547ef872e3a9ac585a187ccffe61f4d2d488
 - Architecture: arm64
-  InstallerUrl: https://github.com/stknohg/ec2rdp/releases/download/v0.7.0/ec2rdp-windows-arm64.zip
-  InstallerSha256: e1dcc4847c4232eed26cb0a5fef70139587893e51f2cd17e2dc31ad8b83a9fdf
+  InstallerUrl: https://github.com/stknohg/ec2rdp/releases/download/v0.8.0/ec2rdp-windows-arm64.zip
+  InstallerSha256: 5c35ed925fe4b406d71727cec8190048bdf12b383f36cd9cb90b41fe14a1de09
 ManifestType: installer
 ManifestVersion: 1.5.0
