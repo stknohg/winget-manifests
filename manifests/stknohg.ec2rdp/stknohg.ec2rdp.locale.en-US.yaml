@@ -1,5 +1,5 @@
-# Created using wingetcreate 1.5.5.0
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.5.0.schema.json
+# Created using wingetcreate 1.6.1.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
 
 PackageIdentifier: stknohg.ec2rdp
 PackageVersion: 0.8.0
@@ -16,4 +16,4 @@ Tags:
 - ec2
 - rdp
 ManifestType: defaultLocale
-ManifestVersion: 1.5.0
+ManifestVersion: 1.6.0
